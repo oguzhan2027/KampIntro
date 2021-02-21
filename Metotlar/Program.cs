@@ -32,6 +32,8 @@ namespace Metotlar
                 Console.WriteLine(urun.Aciklama);
                 Console.WriteLine("----------------------");
 
+
+
             }
             Console.WriteLine("-------------Metotlar---------------");
 

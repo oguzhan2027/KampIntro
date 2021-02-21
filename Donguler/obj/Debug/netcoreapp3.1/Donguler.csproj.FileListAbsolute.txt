@@ -1,0 +1,12 @@
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\bin\Debug\netcoreapp3.1\Donguler.exe
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\bin\Debug\netcoreapp3.1\Donguler.deps.json
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.json
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.dev.json
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\bin\Debug\netcoreapp3.1\Donguler.dll
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\bin\Debug\netcoreapp3.1\Donguler.pdb
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfoInputs.cache
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfo.cs
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\obj\Debug\netcoreapp3.1\Donguler.dll
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\obj\Debug\netcoreapp3.1\Donguler.pdb
+C:\Users\OĞUZHAN\source\repos\KampIntroo\Donguler\obj\Debug\netcoreapp3.1\Donguler.genruntimeconfig.cache

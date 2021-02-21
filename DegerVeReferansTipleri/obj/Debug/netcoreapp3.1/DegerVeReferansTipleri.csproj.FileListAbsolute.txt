@@ -1,0 +1,13 @@
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\bin\Debug\netcoreapp3.1\DegerVeReferansTipleri.exe
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\bin\Debug\netcoreapp3.1\DegerVeReferansTipleri.deps.json
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\bin\Debug\netcoreapp3.1\DegerVeReferansTipleri.runtimeconfig.json
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\bin\Debug\netcoreapp3.1\DegerVeReferansTipleri.runtimeconfig.dev.json
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\bin\Debug\netcoreapp3.1\DegerVeReferansTipleri.dll
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\bin\Debug\netcoreapp3.1\DegerVeReferansTipleri.pdb
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\obj\Debug\netcoreapp3.1\DegerVeReferansTipleri.csprojAssemblyReference.cache
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\obj\Debug\netcoreapp3.1\DegerVeReferansTipleri.AssemblyInfoInputs.cache
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\obj\Debug\netcoreapp3.1\DegerVeReferansTipleri.AssemblyInfo.cs
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\obj\Debug\netcoreapp3.1\DegerVeReferansTipleri.csproj.CoreCompileInputs.cache
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\obj\Debug\netcoreapp3.1\DegerVeReferansTipleri.dll
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\obj\Debug\netcoreapp3.1\DegerVeReferansTipleri.pdb
+C:\Users\OĞUZHAN\source\repos\KampIntroo\DegerVeReferansTipleri\obj\Debug\netcoreapp3.1\DegerVeReferansTipleri.genruntimeconfig.cache

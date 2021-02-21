@@ -1,1 +1,0 @@
-c# ile yapılan bazı temel konular ve bunların ilk defa github'a atılması

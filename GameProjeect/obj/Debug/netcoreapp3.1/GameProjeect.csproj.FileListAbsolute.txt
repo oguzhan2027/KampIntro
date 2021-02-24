@@ -1,0 +1,13 @@
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\obj\Debug\netcoreapp3.1\GameProjeect.csprojAssemblyReference.cache
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\obj\Debug\netcoreapp3.1\GameProjeect.AssemblyInfoInputs.cache
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\obj\Debug\netcoreapp3.1\GameProjeect.AssemblyInfo.cs
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\obj\Debug\netcoreapp3.1\GameProjeect.csproj.CoreCompileInputs.cache
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\bin\Debug\netcoreapp3.1\GameProjeect.exe
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\bin\Debug\netcoreapp3.1\GameProjeect.deps.json
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\bin\Debug\netcoreapp3.1\GameProjeect.runtimeconfig.json
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\bin\Debug\netcoreapp3.1\GameProjeect.runtimeconfig.dev.json
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\bin\Debug\netcoreapp3.1\GameProjeect.dll
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\bin\Debug\netcoreapp3.1\GameProjeect.pdb
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\obj\Debug\netcoreapp3.1\GameProjeect.dll
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\obj\Debug\netcoreapp3.1\GameProjeect.pdb
+C:\Users\OĞUZHAN\source\repos\KampIntroo\GameProjeect\obj\Debug\netcoreapp3.1\GameProjeect.genruntimeconfig.cache
